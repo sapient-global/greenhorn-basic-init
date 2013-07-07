@@ -1,4 +1,4 @@
-# grunt-init-sgnbasic
+# grunt-init-sngbasic
 
 > Create a basic app structure, with gruntfile, ready to rock and roll
 
