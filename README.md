@@ -1,4 +1,4 @@
-# grunt-init-sngbasic
+# grunt-init-ghbasic
 
 > Create a basic app structure, with gruntfile, ready to rock and roll
 
@@ -10,7 +10,7 @@ If you haven't already done so, install [grunt-init][].
 Once grunt-init is installed, place this template in your `~/.grunt-init/` directory. It's recommended that you use git to clone this template into that directory, as follows:
 
 ```
-git clone git@github.com:getGreenhorn/sngbasic.git ~/.grunt-init/sngbasic
+git clone git@github.com:getGreenhorn/ghbasic.git ~/.grunt-init/ghbasic
 ```
 
 _(Windows users, see [the documentation][grunt-init] for the correct destination directory path)_
@@ -20,7 +20,7 @@ _(Windows users, see [the documentation][grunt-init] for the correct destination
 At the command-line, cd into an empty directory, run this command.
 
 ```
-grunt-init sngbasic
+grunt-init ghbasic
 ```
 
 _Note that this template will generate files in the current directory, so be sure to change to a new directory first if you don't want to overwrite existing files._
