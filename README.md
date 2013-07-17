@@ -1,4 +1,4 @@
-# grunt-init-ghbasic
+# Greenhorn Basic Template.
 
 > Create a basic app structure, with gruntfile, ready to rock and roll
 
